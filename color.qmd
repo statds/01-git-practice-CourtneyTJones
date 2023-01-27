@@ -1,4 +1,6 @@
-# colors of the rainbow
+# colors
+
+## colors of the rainbow
 red
 orange
 yellow
@@ -6,3 +8,6 @@ green
 blue
 indigo
 *violet*
+
+## colors that i wish were on the rainbow
+pink
