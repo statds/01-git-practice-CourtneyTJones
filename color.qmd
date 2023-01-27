@@ -1,7 +1,8 @@
 # colors of the rainbow
 red
-yellow
 orange
+yellow
+green
 blue
 indigo
 violet
