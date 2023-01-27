@@ -2,5 +2,5 @@ Few
 lines
 of
 text
-adding a long line to the file so that it turns into a paragraph so i kepp typing typing typing typing typing typing typing typing typing typing typing typing typing typing typing tyipng tyipng typing
-now adding a short line
+adding a long line to the file so that it turns into a paragraph so i keep typing typing typing typing typing typing typing typing typing typing typing typing typing typing typing tyipng tyipng typing
+now adding the short line
